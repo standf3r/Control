@@ -37,3 +37,16 @@ void stringArrayInNewArray(string[] stringArray, int n)
     string[] stringArray3 = new String[] {"Russia", "Denmark", "Kazan"};
     stringArrayInNewArray(stringArray3, 3); // вызов метода с указанием аргументов: массива и количества символов
     
+
+      // Console.WriteLine();
+
+    //     string s = "abc";
+    //     char[] chars = s.ToCharArray();       
+    //     Console.WriteLine(String.Join(", ", chars));
+    //     Console.Write(chars.Length);
+    //     Console.WriteLine();
+    //     for (int count = 0; count < chars.Length; count++)
+    //   {
+    //      Console.Write(count);
+    //   }
+    //   Console.WriteLine();

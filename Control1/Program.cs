@@ -25,3 +25,15 @@ void stringArrayInNewArray(string[] stringArray, int n)
     }
     Console.WriteLine();
 }
+
+ // Примеры
+    Console.Write("1 пример: ");
+    string[] stringArray1 = new String[] {"hello", "2", "world", ":-)"};
+    stringArrayInNewArray(stringArray1, 3); // вызов метода с указанием аргументов: массива и количества символов 
+    Console.Write("2 пример: ");
+    string[] stringArray2 = new String[] {"1234", "1567", "-2", "computer science"};
+    stringArrayInNewArray(stringArray2, 3); // вызов метода с указанием аргументов: массива и количества символов
+    Console.Write("3 пример: ");
+    string[] stringArray3 = new String[] {"Russia", "Denmark", "Kazan"};
+    stringArrayInNewArray(stringArray3, 3); // вызов метода с указанием аргументов: массива и количества символов
+    
